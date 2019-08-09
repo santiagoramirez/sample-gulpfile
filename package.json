@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "gulpfile.js",
   "authors": [
-    "Santiago Ramirez <santiago@ironpaper.com>"
+    "Santiago Ramirez <santiago.isidro.ramirez@gmail.com>"
   ],
   "babel": {
     "presets": [
